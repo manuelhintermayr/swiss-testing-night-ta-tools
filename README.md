@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is dedicated to the Swiss Testing Night event, focusing on testing a System Under Test (SUT) using different Test Automation (TA) tools, including Selenium, Cypress, and Playwright. The SUT used for this demonstration is derived from the [Tab Tracker](https://github.com/codyseibert/tab-tracker) repository by Cody Seibert and updated by [Xebia](https://github.com/xebia/cypress-training/).
+This repository is dedicated to the [Swiss Testing Night event](https://swisstestingday.ch/community/), focusing on testing a System Under Test (SUT) using different Test Automation (TA) tools, including Selenium, Cypress, and Playwright. The SUT used for this demonstration is derived from the [Tab Tracker](https://github.com/codyseibert/tab-tracker) repository by Cody Seibert and updated by [Xebia](https://github.com/xebia/cypress-training/).
 
 ## Repository Structure
 
